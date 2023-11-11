@@ -1,23 +1,48 @@
+
 body {
     background-color:#ffe4c7 ;
     margin: 0px;
     padding: 10px 30px 10px 30px;
-    border:5px solid #fda4cf;
-    border-radius: 10px;
 }
-h1, h2, p, button, .more {
-    color: #f46d6d;
+header, p {
     text-align: center;
 }
 h1 {
     font-size: 64px;
     margin: 10px ;
+    color: #fb0091;
 }
 h2 {
-    font-size: 32px;
+    font-size: 24px;
     margin-top: 0px;
+    color: #fb8691;
 }
-image {
+.sister-def {
+    color: #fb8691;
+}
+.quote {
+    margin-bottom: 0px;
+    padding-bottom: 5px; 
+    color: #fb9e91;  
+}
+.author {
+    color: #fb9e91;
+}
+
+button {
     display: block;
+    margin: 0 auto;
+    padding: 15px;
+    color: #ffe4c7;
+    background-color: #fb0091;
+    border-radius: 30px;
+    border: none;
     
+}
+img {
+    display: block;
+    margin:  0 auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
 }
